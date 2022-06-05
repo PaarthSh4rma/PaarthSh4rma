@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PaarthSh4rma
-- 👀 I’m interested in Cricket
+- 🏠 I'm from New Delhi, India
+- 👀 I’m interested in Cricket, Marvel and Anime
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Python
 
