@@ -39,6 +39,16 @@ I'm particularly interested in:
 
 ---
 
+## My Skiils
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+---
+
 ## Contact
 
 - GitHub: https://github.com/PaarthSh4rma  
