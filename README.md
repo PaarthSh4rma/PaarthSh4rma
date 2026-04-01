@@ -43,7 +43,9 @@ I'm particularly interested in:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,react,nodejs,mongodb,supabase,fastapi,vercel,postgres"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,docker,kubernetes,java,git,figma,aws"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,cs"/>
   </a>
 </p>
 
