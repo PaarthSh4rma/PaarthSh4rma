@@ -1,58 +1,25 @@
-<h1 align="center">Hi, I'm Paarth Sharma 👋</h1>
-<h3 align="center">Software Engineering Graduate | Melbourne, Australia</h3>
+## Paarth Sharma
 
-<p align="center">
-  Actively seeking graduate / junior software engineering roles
-</p>
+Software engineer building reliable full-stack, backend, and cloud-powered systems.
 
----
+I’ve worked on production-facing data pipelines and machine learning models at Origin Energy, and I build end-to-end applications across React, FastAPI, and modern cloud infrastructure.
 
-## About Me
+### Focus
+- Full-stack systems with clean architecture
+- Backend APIs and data pipelines
+- Cloud-native and distributed systems
+- Practical ML and data-driven applications
 
-I'm a Software Engineering graduate from Monash University, currently based in Melbourne.
+### Selected Work
+- **JobTracker** — full-stack job tracking platform (React, FastAPI, PostgreSQL)  
+- **Collectability Risk Model** — XGBoost model on 100k+ records for credit risk prediction  
+- **BirdTag** — AWS-based system for image/audio species classification  
 
-I focus on building practical, well-structured applications with clean user experiences. I prioritise **quality projects that reflect real-world use cases**.
-
-I'm particularly interested in:
-- Full-stack web development
-- Product-focused engineering
-- Clean, intuitive UI/UX
-- Building tools that solve real problems
-
----
-
-## What I Bring
-
-- Strong fundamentals from a Software Engineering degree
-- Focus on writing clean, readable, maintainable code
-- Attention to user experience and product quality
-- Ability to take a project from idea → implementation → refinement
-- Willingness to learn quickly and adapt in a team environment
-
----
-
-## Currently
-
-- Actively applying for graduate/junior roles  
-- Continuously improving my portfolio and projects  
-- Building more real-world, production-style applications  
-
----
-
-## My Skiils
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,react,nodejs,mongodb,supabase,fastapi,vercel,postgres"/>
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,docker,kubernetes,java,git,figma,aws"/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,cs"/>
-  </a>
-</p>
-
----
-
-## Contact
-
+### Links
+- Portfolio: https://paarth-sharma.com [![Portfolio](https://img.shields.io/badge/Portfolio-paarth--sharma.com-black)](https://paarth-sharma.com)
 - GitHub: https://github.com/PaarthSh4rma  
 - LinkedIn: https://www.linkedin.com/in/paarthsharma16/
-- Email: paarth.sharma.3110@gmail.com
+
+---
+
+I’m currently looking for software engineering roles across backend, full-stack, and cloud-focused teams.
