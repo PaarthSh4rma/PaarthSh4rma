@@ -1,4 +1,5 @@
 ## Paarth Sharma
+[![Portfolio](https://img.shields.io/badge/Portfolio-paarth--sharma.com-black)](https://paarth-sharma.com)
 
 Software engineer building reliable full-stack, backend, and cloud-powered systems.
 
@@ -16,7 +17,8 @@ I’ve worked on production-facing data pipelines and machine learning models at
 - **BirdTag** — AWS-based system for image/audio species classification  
 
 ### Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-paarth--sharma.com-black)](https://paarth-sharma.com)
+
+- Portfolio: https://paarth-sharma.com  
 - GitHub: https://github.com/PaarthSh4rma  
 - LinkedIn: https://www.linkedin.com/in/paarthsharma16/
 
