@@ -16,7 +16,7 @@ I’ve worked on production-facing data pipelines and machine learning models at
 - **BirdTag** — AWS-based system for image/audio species classification  
 
 ### Links
-- Portfolio: https://paarth-sharma.com [![Portfolio](https://img.shields.io/badge/Portfolio-paarth--sharma.com-black)](https://paarth-sharma.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-paarth--sharma.com-black)](https://paarth-sharma.com)
 - GitHub: https://github.com/PaarthSh4rma  
 - LinkedIn: https://www.linkedin.com/in/paarthsharma16/
 
