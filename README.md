@@ -1,8 +1,6 @@
 ## Paarth Sharma
 [![Portfolio](https://img.shields.io/badge/Portfolio-paarth--sharma.com-black)](https://paarth-sharma.com)
 
-## Hey, I'm Paarth 👋
-
 Software Engineering graduate focused on building scalable backend systems and applied AI solutions.
 
 ### 🚀 What I do
@@ -23,12 +21,10 @@ Python | FastAPI | React | PostgreSQL | AWS | Docker | XGBoost | LangChain | Jup
 - **Credit Risk Model (Origin Energy)** – ML system on 100k+ records  
 - **BirdTag** – Cloud-native AI classification system
 
----
-
-Always keen to build and collaborate 🚀
-
-### Links
-
+### 🔗 Links
 - Portfolio: https://paarth-sharma.com  
 - LinkedIn: https://www.linkedin.com/in/paarthsharma16/
 
+---
+
+Always keen to build and collaborate!
