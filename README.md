@@ -9,7 +9,7 @@ Software Engineering graduate focused on building scalable backend systems and a
 - Work across APIs, data pipelines, and system architecture
 
 ### 🧠 Interests
-- AI systems (RAG, automation, applied ML)
+- AI systems (LLMs, automation, applied ML)
 - Backend engineering & distributed systems
 - Building real-world products end-to-end
 
