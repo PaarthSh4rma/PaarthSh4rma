@@ -1,29 +1,34 @@
 ## Paarth Sharma
 [![Portfolio](https://img.shields.io/badge/Portfolio-paarth--sharma.com-black)](https://paarth-sharma.com)
 
-Software engineer building reliable full-stack, backend, and cloud-powered systems with a focus on real-world impact.
+## Hey, I'm Paarth 👋
 
-I’ve built production-facing data pipelines and deployed machine learning models on 100k+ records at Origin Energy, and I develop end-to-end applications across React, FastAPI, and modern cloud infrastructure.
+Software Engineering graduate focused on building scalable backend systems and applied AI solutions.
 
+### 🚀 What I do
+- Build full-stack and cloud-native applications to try and solve real life problems.
+- Design and deploy ML/AI systems in real-world workflows
+- Work across APIs, data pipelines, and system architecture
 
-### Focus
-- Full-stack systems with clean architecture
-- Backend APIs and data pipelines
-- Cloud-native and distributed systems
-- Practical ML and data-driven applications
+### 🧠 Interests
+- AI systems (RAG, automation, applied ML)
+- Backend engineering & distributed systems
+- Building real-world products end-to-end
 
-### Selected Work
-- **JobTracker** — SaaS-style full-stack job tracking platform with authentication and per-user data isolation  
-- **Collectability Risk Model** — XGBoost model on 100k+ records for credit risk prediction and prioritisation  
-- **BirdTag** — AWS-based system for image and audio-based species classification  
+### 🔧 Tech Stack
+Python | FastAPI | React | PostgreSQL | AWS | Docker | XGBoost | LangChain | Jupyter 
+
+### 📌 Featured Projects
+- **JobTracker** – Full-stack SaaS platform  
+- **Credit Risk Model (Origin Energy)** – ML system on 100k+ records  
+- **BirdTag** – Cloud-native AI classification system
+
+---
+
+Always keen to build and collaborate 🚀
 
 ### Links
 
 - Portfolio: https://paarth-sharma.com  
-- GitHub: https://github.com/PaarthSh4rma  
 - LinkedIn: https://www.linkedin.com/in/paarthsharma16/
 
----
-
-I like building systems that turn messy problems into clear, reliable software.
-Currently looking for software engineering roles across backend, full-stack, and cloud-focused teams.
